@@ -48,7 +48,7 @@ func main() {
 		if counter <= 10 {
 			c.JSON(200, gin.H{"error": "做对了" + strconv.Itoa(counter) + "道题目"})
 		} else {
-			c.JSON(200, gin.H{"congraduation!": "flag{test_flag}"})
+			c.JSON(200, gin.H{"congradutions!": readQuiz("flag")})
 		}
 	})
 
