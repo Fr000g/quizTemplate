@@ -1,0 +1,14 @@
+1. What is SHA1 checksum of image file blk0_mmcblk0.bin ?
+2. What is the name of the largest partition?
+3. What email address is setup on com.android.email service?
+4. What is the brand (vendor) of phone?
+5. Find ICCID Number
+6. What is the name of the username telegram?
+7. What is the model of the phone?
+8. What is the name of WhatsApp user which has phone number +37062166565?
+9. How much dollars the seized weapons (stuff) may have cost?
+10. What tank specs the user was looking for?
+11. What web address was provided for a company that can rent cargo planes?
+12. What is a name of video file which is related with tanks?
+13. Based on the analysis of the video file 20221015_173902.mp4, please provide the GPS coordinates of the possible place, where video was recorded?
+14. Based on the review of the media files, please provide the GPS coordinates of the possible meeting point.

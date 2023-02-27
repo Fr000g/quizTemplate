@@ -1,0 +1,10 @@
+<br>
+            <input type="submit" class="btn btn-lg btn-primary btn-block" value="confirm!">
+        </div>
+    </form>
+    <script src="./static/jquery.min.js"></script>
+    <script src="./static/bootstrap.min.js"></script>
+
+</body>
+
+</html>

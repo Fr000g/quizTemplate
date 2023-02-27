@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <link rel="stylesheet" href="./static/bootstrap.min.css">
+    <link rel="stylesheet" href="./static/main.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <title>Lord of War☠️</title>
+</head>
+
+<body class="text-center">
+    <form class="form-getflag" method="post">
+        <div id="app">
+            <h1>Lord of War☠️</h1>
+            <div class="card">
+                <div class="card-body question-main">
+                    <!-- 故事背景 -->
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在立陶宛边境，有一批犯罪分子进行着军火交易。他们来自不同的国家，其中包括俄罗斯、白俄罗斯等地。这些犯罪分子在当地寻找潜在的买家，以获取高额利润。<br><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他们经常会利用夜间在边境地区进行秘密交易，通常采用现金支付，以免引起银行账户交易的怀疑。这些犯罪分子的军火交易包括大量的武器，如步枪、手枪、炸药和火箭筒等，这些武器在各种冲突地区都是必不可少的。<br><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这些犯罪分子的活动引起了当地边境警察的注意。警方开始加强巡逻和监视，以寻找证据，抓获这些犯罪分子并阻止他们的活动。但这些犯罪分子很难被抓到，因为他们经常使用技巧和伪造文件来掩盖他们的交易和身份。<br><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最终，警方在一次秘密交易中逮捕了一个犯罪分子，搜查发现大量的武器和现金，以及一部手机，证明了他们的军火交易行为。<br><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下是警方调查到的部分信息，你能重现警方的取证过程吗？<br>
+                    <!-- 背景故事 -->
+                </div>
+            </div>
+            <br>
